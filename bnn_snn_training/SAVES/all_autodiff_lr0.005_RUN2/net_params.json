@@ -1,0 +1,1 @@
+{"n_inputs": 50, "n_hidden": 128, "n_outputs": 3, "snn_beta": 0.95, "filter_length": 100, "cuda": true, "use_snn": false, "n_per_step": 40, "softmax": false}
